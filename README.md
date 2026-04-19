@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Performance Analysis
+# E-Commerce Sales Performance Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey?logo=sqlite) ![Pandas](https://img.shields.io/badge/Pandas-Data-green) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 A Nigerian e-commerce platform running across **Lagos, Abuja, Port Harcourt, Kano, Enugu, and Ibadan** had data scattered across 3 separate operational systems — Orders, Customers, and Logistics. This project consolidates all 3 into a unified star-schema model using SQL JOINs, then performs full sales performance analysis to answer key business questions and surface a **₦18M+ revenue leakage** from returns and cancellations.
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 
 1. Which product categories generate the most revenue?
 2. Which regions and channels are driving growth?
@@ -22,7 +22,7 @@ A Nigerian e-commerce platform running across **Lagos, Abuja, Port Harcourt, Kan
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 | Finding | Impact |
 |---------|--------|
@@ -50,7 +50,7 @@ A Nigerian e-commerce platform running across **Lagos, Abuja, Port Harcourt, Kan
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ecommerce-sales-analysis/
@@ -70,7 +70,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🛠️ Tools & Stack
+## Tools & Stack
 
 | Layer | Tool |
 |-------|------|
@@ -82,7 +82,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/Canigbobi1/ecommerce-sales-analysis.git
@@ -95,9 +95,9 @@ jupyter notebook notebooks/ecommerce_analysis.ipynb
 
 ## 👤 Author
 
-**Churchill Anigbobi** — Data Analyst | SQL & Python | MSc AI (University of Bristol, incoming)
+**Churchill Anigbobi** — Data Analyst | SQL & Python 
 
-- 🌐 [LinkedIn](https://linkedin.com/in/churchill-anigbobi)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/churchill-anigbobi-1bba3b179/)
 - 🐙 [GitHub](https://github.com/Canigbobi1)
 - 📧 canigbobi@gmail.com
 
